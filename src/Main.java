@@ -11,5 +11,6 @@ public class Main {
         f.ground();
         f.ground("goal keeping nets");
         w.ground();
+        w.ground("clothing");
     }
 }
